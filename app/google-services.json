@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965910611153",
+    "project_id": "crownless-6ea02",
+    "storage_bucket": "crownless-6ea02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965910611153:android:af2a17858875382ca0f1f0",
+        "android_client_info": {
+          "package_name": "com.demakkab.sipeni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfCemBTaGRhr-2BafF13jlScqnj-sqnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965910611153:android:f1d2f99dc98ae403a0f1f0",
+        "android_client_info": {
+          "package_name": "com.example.notificc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfCemBTaGRhr-2BafF13jlScqnj-sqnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
